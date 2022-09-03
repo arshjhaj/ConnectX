@@ -1,0 +1,1 @@
+This is a project I completed in 2020. This is an AI, implemented in Java, which is capable of playing the popular board game Connect Four. This utilizes a minimax algorithm with alpha-beta pruning.  
